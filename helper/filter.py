@@ -1,8 +1,19 @@
 import json
 
+from .krill_lotin import krill_to_lotin
+
 
 def process_line(line):
-    parts = [x.replace(' ', '').replace(';', '').strip() for x in line.split('\t') if x.strip()]
+    parts = [x.replace(' ', '').replace(';', '').replace('-', '').strip().upper() for x in line.split('\t') if x.strip()]
+    
+    parts.sort(key=lambda x: len(str(x)), reverse=True)    
+    
+    if len(parts) == 2:
+        parts[-1] = krill_to_lotin(parts[-1])
+    
+    # if parts[-1][0] == 'A':
+    #     parts[-1] = parts[-1].replace('-', '')
+    
     if len(parts) == 2 and len(parts[0]) == 14:
         return parts
     return None

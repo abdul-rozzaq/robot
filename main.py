@@ -6,6 +6,7 @@ from helper.download_data import download_house_list
 from helper.filter import filter_data
 from helper.download_members_data import download_members_data
 from helper.filter_members import filter_members
+from helper.add_member import add_member
 
 doc = """
 Selected village: {}
@@ -53,7 +54,7 @@ def main():
             case 5:
                 filter_members(name)
             case 6:
-                ...
+                add_member(name)
             case 7:
                 ...
                 # (open('delete-people.py').read())

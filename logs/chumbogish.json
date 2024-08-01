@@ -1,0 +1,1073 @@
+[
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62103186920082 - FR1120900",
+        "data": {
+            "pinpp": "62103186920082",
+            "document": "FR1120900"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50707206920051 - FR0144542",
+        "data": {
+            "pinpp": "50707206920051",
+            "document": "FR0144542"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61712216920012 - FR45074048",
+        "data": {
+            "pinpp": "61712216920012",
+            "document": "FR45074048"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 31009846920048 - AA4836103",
+        "data": {
+            "pinpp": "31009846920048",
+            "document": "AA4836103"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50204136920040 - FR0683815",
+        "data": {
+            "pinpp": "50204136920040",
+            "document": "FR0683815"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50707206920051 - FR0107951",
+        "data": {
+            "pinpp": "50707206920051",
+            "document": "FR0107951"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62101176920027 - FR1015437",
+        "data": {
+            "pinpp": "62101176920027",
+            "document": "FR1015437"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32602784170074 - AA8750356",
+        "data": {
+            "pinpp": "32602784170074",
+            "document": "AA8750356"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61908196920041 - FR0021116",
+        "data": {
+            "pinpp": "61908196920041",
+            "document": "FR0021116"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 63009106069200 - FR0500062",
+        "data": {
+            "pinpp": "63009106069200",
+            "document": "FR0500062"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51601216920021 - FR42590411",
+        "data": {
+            "pinpp": "51601216920021",
+            "document": "FR42590411"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50101216920054 - FR42523727",
+        "data": {
+            "pinpp": "50101216920054",
+            "document": "FR42523727"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60311196920024 - FR0040439",
+        "data": {
+            "pinpp": "60311196920024",
+            "document": "FR0040439"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 40161303200514 - FR0053071",
+        "data": {
+            "pinpp": "40161303200514",
+            "document": "FR0053071"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30609644170031 - AB6490054",
+        "data": {
+            "pinpp": "30609644170031",
+            "document": "AB6490054"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62808156920028 - FR0084739",
+        "data": {
+            "pinpp": "62808156920028",
+            "document": "FR0084739"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41212884170040 - FR0692030",
+        "data": {
+            "pinpp": "41212884170040",
+            "document": "FR0692030"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51105136920045 - FR0041500",
+        "data": {
+            "pinpp": "51105136920045",
+            "document": "FR0041500"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51306156920082 - FR0075512",
+        "data": {
+            "pinpp": "51306156920082",
+            "document": "FR0075512"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32008684170012 - AB1592320",
+        "data": {
+            "pinpp": "32008684170012",
+            "document": "AB1592320"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 31207976920082 - AC260076",
+        "data": {
+            "pinpp": "31207976920082",
+            "document": "AC260076"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62502016920014 - AB1594151",
+        "data": {
+            "pinpp": "62502016920014",
+            "document": "AB1594151"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62103236920057 - Ò46086928",
+        "data": {
+            "pinpp": "62103236920057",
+            "document": "Ò46086928"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 31303946920011 - AB5441975",
+        "data": {
+            "pinpp": "31303946920011",
+            "document": "AB5441975"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41112696920021 - FR1059954",
+        "data": {
+            "pinpp": "41112696920021",
+            "document": "FR1059954"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62904216920016 - AB1630147",
+        "data": {
+            "pinpp": "62904216920016",
+            "document": "AB1630147"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32610914170047 - AA7118327",
+        "data": {
+            "pinpp": "32610914170047",
+            "document": "AA7118327"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52402166920050 - FR1218709",
+        "data": {
+            "pinpp": "52402166920050",
+            "document": "FR1218709"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 31110576920021 - AB8891641",
+        "data": {
+            "pinpp": "31110576920021",
+            "document": "AB8891641"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 42103641170057 - AB1371179",
+        "data": {
+            "pinpp": "42103641170057",
+            "document": "AB1371179"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 40702884170069 - FR0910571",
+        "data": {
+            "pinpp": "40702884170069",
+            "document": "FR0910571"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50710156920121 - FR0910571",
+        "data": {
+            "pinpp": "50710156920121",
+            "document": "FR0910571"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30300555417003 - AA8696073",
+        "data": {
+            "pinpp": "30300555417003",
+            "document": "AA8696073"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62210096920018 - FR0411768",
+        "data": {
+            "pinpp": "62210096920018",
+            "document": "FR0411768"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 53007086920082 - FR0280325",
+        "data": {
+            "pinpp": "53007086920082",
+            "document": "FR0280325"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62110136920092 - FR0739419",
+        "data": {
+            "pinpp": "62110136920092",
+            "document": "FR0739419"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51310096820033 - FR0411671",
+        "data": {
+            "pinpp": "51310096820033",
+            "document": "FR0411671"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 42410854170086 - AA2097405",
+        "data": {
+            "pinpp": "42410854170086",
+            "document": "AA2097405"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30706686920023 - AA2377440",
+        "data": {
+            "pinpp": "30706686920023",
+            "document": "AA2377440"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50404026920068 - AB1692417",
+        "data": {
+            "pinpp": "50404026920068",
+            "document": "AB1692417"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61406236920032 - Ò47128709",
+        "data": {
+            "pinpp": "61406236920032",
+            "document": "Ò47128709"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61105186920016 - FR0456235",
+        "data": {
+            "pinpp": "61105186920016",
+            "document": "FR0456235"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61003226920094 - Ò45434952",
+        "data": {
+            "pinpp": "61003226920094",
+            "document": "Ò45434952"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30508864170012 - AA1645996",
+        "data": {
+            "pinpp": "30508864170012",
+            "document": "AA1645996"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50306116920029 - FR0545757",
+        "data": {
+            "pinpp": "50306116920029",
+            "document": "FR0545757"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61307066920033 - FR155135",
+        "data": {
+            "pinpp": "61307066920033",
+            "document": "FR155135"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51510146920024 - FR0827710",
+        "data": {
+            "pinpp": "51510146920024",
+            "document": "FR0827710"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51712186920013 - FR1193624",
+        "data": {
+            "pinpp": "51712186920013",
+            "document": "FR1193624"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51206116920021 - FR0545876",
+        "data": {
+            "pinpp": "51206116920021",
+            "document": "FR0545876"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62709056920031 - FR0055598",
+        "data": {
+            "pinpp": "62709056920031",
+            "document": "FR0055598"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 31510824170048 - AB4781212",
+        "data": {
+            "pinpp": "31510824170048",
+            "document": "AB4781212"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50910076920025 - FR0276628",
+        "data": {
+            "pinpp": "50910076920025",
+            "document": "FR0276628"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 42808844170011 - AB9370598",
+        "data": {
+            "pinpp": "42808844170011",
+            "document": "AB9370598"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62511056920023 - FR0119441",
+        "data": {
+            "pinpp": "62511056920023",
+            "document": "FR0119441"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60904096920038 - FR0499583",
+        "data": {
+            "pinpp": "60904096920038",
+            "document": "FR0499583"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52107156920017 - FR0893498",
+        "data": {
+            "pinpp": "52107156920017",
+            "document": "FR0893498"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60105116920069 - FR5323130",
+        "data": {
+            "pinpp": "60105116920069",
+            "document": "FR5323130"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 40101396920027 - AB2741575",
+        "data": {
+            "pinpp": "40101396920027",
+            "document": "AB2741575"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60507076920015 - FR0217768",
+        "data": {
+            "pinpp": "60507076920015",
+            "document": "FR0217768"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 23351789572432 - AA2344567",
+        "data": {
+            "pinpp": "23351789572432",
+            "document": "AA2344567"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41501996920046 - AB6176222",
+        "data": {
+            "pinpp": "41501996920046",
+            "document": "AB6176222"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50800086920045 - FR0407406",
+        "data": {
+            "pinpp": "50800086920045",
+            "document": "FR0407406"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30311726920023 - AB5529135",
+        "data": {
+            "pinpp": "30311726920023",
+            "document": "AB5529135"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50601066920045 - FR0119796",
+        "data": {
+            "pinpp": "50601066920045",
+            "document": "FR0119796"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 42210629620028 - AA5393123",
+        "data": {
+            "pinpp": "42210629620028",
+            "document": "AA5393123"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50306086920027 - FR0279539",
+        "data": {
+            "pinpp": "50306086920027",
+            "document": "FR0279539"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41118934170046 - AB2218761",
+        "data": {
+            "pinpp": "41118934170046",
+            "document": "AB2218761"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 63006196920059 - FR022385",
+        "data": {
+            "pinpp": "63006196920059",
+            "document": "FR022385"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52804086920039 - FR0279034",
+        "data": {
+            "pinpp": "52804086920039",
+            "document": "FR0279034"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 53101216910056 - FR42693565",
+        "data": {
+            "pinpp": "53101216910056",
+            "document": "FR42693565"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52109096920111 - FR0411300",
+        "data": {
+            "pinpp": "52109096920111",
+            "document": "FR0411300"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32301834170097 - AA3866472",
+        "data": {
+            "pinpp": "32301834170097",
+            "document": "AA3866472"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62111166920072 - FR1014715",
+        "data": {
+            "pinpp": "62111166920072",
+            "document": "FR1014715"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51904056920036 - FR0532068",
+        "data": {
+            "pinpp": "51904056920036",
+            "document": "FR0532068"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30509986920085 - AC2788395",
+        "data": {
+            "pinpp": "30509986920085",
+            "document": "AC2788395"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62412016920010 - AC1697410",
+        "data": {
+            "pinpp": "62412016920010",
+            "document": "AC1697410"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32204554170027 - AB3326158",
+        "data": {
+            "pinpp": "32204554170027",
+            "document": "AB3326158"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50800026920036 - AC0442770",
+        "data": {
+            "pinpp": "50800026920036",
+            "document": "AC0442770"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50412046920063 - FR0308031",
+        "data": {
+            "pinpp": "50412046920063",
+            "document": "FR0308031"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51007206920141 - FR0075917",
+        "data": {
+            "pinpp": "51007206920141",
+            "document": "FR0075917"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60109226920083 - Ò46086928",
+        "data": {
+            "pinpp": "60109226920083",
+            "document": "Ò46086928"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 33105934170915 - AB7827832",
+        "data": {
+            "pinpp": "33105934170915",
+            "document": "AB7827832"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 53105166920028 - FR0961112",
+        "data": {
+            "pinpp": "53105166920028",
+            "document": "FR0961112"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61507206920035 - FR0108116",
+        "data": {
+            "pinpp": "61507206920035",
+            "document": "FR0108116"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41509486920011 - AB1326473",
+        "data": {
+            "pinpp": "41509486920011",
+            "document": "AB1326473"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52906076920022 - FR0217697",
+        "data": {
+            "pinpp": "52906076920022",
+            "document": "FR0217697"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 50405216920097 - FR43304433",
+        "data": {
+            "pinpp": "50405216920097",
+            "document": "FR43304433"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32608894170086 - AA4579351",
+        "data": {
+            "pinpp": "32608894170086",
+            "document": "AA4579351"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41809866920014 - AB9863417",
+        "data": {
+            "pinpp": "41809866920014",
+            "document": "AB9863417"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62707096920079 - FR0410423",
+        "data": {
+            "pinpp": "62707096920079",
+            "document": "FR0410423"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 31806924117003 - AB1592950",
+        "data": {
+            "pinpp": "31806924117003",
+            "document": "AB1592950"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60107116920082 - FR0546141",
+        "data": {
+            "pinpp": "60107116920082",
+            "document": "FR0546141"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62811226920041 - Ò46423298",
+        "data": {
+            "pinpp": "62811226920041",
+            "document": "Ò46423298"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 53001226920059 - Ò45275128",
+        "data": {
+            "pinpp": "53001226920059",
+            "document": "Ò45275128"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62805036020010 - AC2060985",
+        "data": {
+            "pinpp": "62805036020010",
+            "document": "AC2060985"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52210236920059 - Ò47667185",
+        "data": {
+            "pinpp": "52210236920059",
+            "document": "Ò47667185"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52605146920064 - FR0781237",
+        "data": {
+            "pinpp": "52605146920064",
+            "document": "FR0781237"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62309206920070 - FR0144480",
+        "data": {
+            "pinpp": "62309206920070",
+            "document": "FR0144480"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60112226920111 - Ò46440563",
+        "data": {
+            "pinpp": "60112226920111",
+            "document": "Ò46440563"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32302674170019 - AA7122152",
+        "data": {
+            "pinpp": "32302674170019",
+            "document": "AA7122152"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62812196920042 - FR0041338",
+        "data": {
+            "pinpp": "62812196920042",
+            "document": "FR0041338"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30605894170029 - AB5595639",
+        "data": {
+            "pinpp": "30605894170029",
+            "document": "AB5595639"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 41110916920020 - AA6736593",
+        "data": {
+            "pinpp": "41110916920020",
+            "document": "AA6736593"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 67892503072009 - FR0214191",
+        "data": {
+            "pinpp": "67892503072009",
+            "document": "FR0214191"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 51001246920064 - Ò47959441",
+        "data": {
+            "pinpp": "51001246920064",
+            "document": "Ò47959441"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62202126920057 - FR0597972",
+        "data": {
+            "pinpp": "62202126920057",
+            "document": "FR0597972"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60412016020021 - AD0534240",
+        "data": {
+            "pinpp": "60412016020021",
+            "document": "AD0534240"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52306226920078 - Ò45816039",
+        "data": {
+            "pinpp": "52306226920078",
+            "document": "Ò45816039"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61407176920032 - FR1059947",
+        "data": {
+            "pinpp": "61407176920032",
+            "document": "FR1059947"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61711166920020 - FR1001870",
+        "data": {
+            "pinpp": "61711166920020",
+            "document": "FR1001870"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52207016992001 - AB7794406",
+        "data": {
+            "pinpp": "52207016992001",
+            "document": "AB7794406"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60205126720032 - FR0619855",
+        "data": {
+            "pinpp": "60205126720032",
+            "document": "FR0619855"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 52105066920048 - FR0147925",
+        "data": {
+            "pinpp": "52105066920048",
+            "document": "FR0147925"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 61806156920022 - FR0880383",
+        "data": {
+            "pinpp": "61806156920022",
+            "document": "FR0880383"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 30703654170013 - AA4796108",
+        "data": {
+            "pinpp": "30703654170013",
+            "document": "AA4796108"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60410196920077 - FR0022785",
+        "data": {
+            "pinpp": "60410196920077",
+            "document": "FR0022785"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 60107196920030 - FR0022743",
+        "data": {
+            "pinpp": "60107196920030",
+            "document": "FR0022743"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 62604226920111 - Ò46679178",
+        "data": {
+            "pinpp": "62604226920111",
+            "document": "Ò46679178"
+        }
+    },
+    {
+        "type": "error",
+        "code": "CITIZEN_NOT_FOUND",
+        "description": "Person not found: 32610604870015 - AB2377784",
+        "data": {
+            "pinpp": "32610604870015",
+            "document": "AB2377784"
+        }
+    }
+]

@@ -1,3 +1,5 @@
+from pprint import pprint   
+
 from alive_progress import alive_bar
 
 from helper.log import Logger
@@ -11,14 +13,22 @@ from requests.exceptions import ConnectTimeout
 
 
 def add_member(name):
-        
+    
     def check_person(pinpp, document):
         return Request(name).post('https://mahalla.ijro.uz/api/citizen/get-citizen-info', body={"pinpp": pinpp, "passport_series": document})
 
+    def get_validated_certificate(cert_series, cert_number, pinpp):
+        return Request(name).post('https://mahalla.ijro.uz/api/citizen/get-birth-certificate-validated', body={
+            "cert_series": cert_series, 
+            "cert_number": cert_number, 
+            "pinpp": pinpp,
+        })
+
     def check_children(seria, number):
+        
         return Request(name).post('https://mahalla.ijro.uz/api/citizen/get-birth-certificate', body={
-            "cert_number": str(seria),
-            "cert_series": str(number),
+            "cert_number": str(number),
+            "cert_series": str(seria),
         })
 
     def get_families(house_id):
@@ -28,7 +38,7 @@ def add_member(name):
         letters = ''.join([char for char in document if char.isalpha()])
         numbers = ''.join([char for char in document if char.isdigit()])
             
-        if letters == "IFR":
+        if letters == "IFR" or letters == 'FR':
             letters = "I-FR"
         elif letters == "IIIFR":
             letters = "III-FR"
@@ -64,11 +74,17 @@ def add_member(name):
     with open(f'db/data-{name}.json', 'r', encoding='UTF-8') as file:
         houses = [House.from_dict(dat) for dat in json.loads(file.read())['response']]
         
-    with open(f'json_data/{name}.json', 'r', encoding='UTF-8') as file:
-        raw_users = json.loads(file.read())    
+    # with open(f'json_data/{name}.json', 'r', encoding='UTF-8') as file:
+    #     raw_users = json.loads(file.read())    
 
+    raw_users = [
+        [
+            "41709854170031",
+            "IFR0407180"
+        ],
+    ]
     
-    index = 823
+    index = 0
     offset = 0
     
     with alive_bar(len(raw_users) - index) as bar:
@@ -80,22 +96,41 @@ def add_member(name):
 
             house = houses[index + offset]
             pinpp, document = raw_users[index]
+            
+            try:
+                families = get_families(house.id)
+                families_list = [Family.from_dict(dat) for dat in families.json()['response'] if dat['owner'] != None]
+
+                
+                while len(families_list) == 0:
+                    offset += 1
+                    
+                    house = houses[index + offset]
+                    families = get_families(house.id)
+                    families_list = [Family.from_dict(dat) for dat in families.json()['response'] if dat['owner'] != None]
+
+                print(house.owner.full_name)
+                 
+            except ConnectTimeout:  
+                continue
 
 
             try:
                 if document[0] == 'A':
                     person = check_person(pinpp, document)
-                    families = get_families(house.id)
                 else:
                     person = check_children(*extract(document))
+    
             except ConnectTimeout:  
                 continue
-
+                
+                
+                
+            print(person.json())
+            
             if person.status_code == 201 and families.status_code == 201:
                 
-                families_list = [Family.from_dict(dat) for dat in families.json()['response'] if dat['owner'] != None]
-                
-                if len(families_list) != 0 and 'response' in person.json():
+                if len(families_list) != 0:
                     citizen = Citizen.from_dict(person.json()['response'])
 
                     fam = families_list[0]
@@ -110,11 +145,15 @@ def add_member(name):
                         pinpp=citizen.pinpp
                     )
                     
+                    
+                    print(resp.status_code)
+                    
+                    
             index += 1
             bar()
 
 def main():
-    add_member('chumbogish')
+    add_member('ozod')
 
 
 if __name__ == '__main__':
