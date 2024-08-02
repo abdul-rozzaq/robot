@@ -10,6 +10,8 @@ def download_house_list(name: str):
         "offset": 1
     })
 
+    print(data.text)
+
     with open(f'db/data-{name}.json', 'w', encoding='utf-8') as file:
         file.write(json.dumps(data.json(), indent=4, ensure_ascii=False))
 

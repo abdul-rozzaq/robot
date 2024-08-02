@@ -78,10 +78,10 @@ def add_member(name):
         raw_users = json.loads(file.read())    
 
     
-    index = 280
+    index = 0
     offset = 0
     
-    with alive_bar(len(raw_users) - index) as bar:
+    with alive_bar(len(raw_users) - index, bar='fish') as bar:        
         while index < len(raw_users):
             
             if index + offset >= len(houses):
@@ -159,7 +159,8 @@ def add_member(name):
             response = add(street_id=house.street_id, citizen_id=citizen.id, citizen_birthday=citizen.birthday, citizen_fullname=citizen.full_name, family_id=fam.id, house_id=house.id, pinpp=citizen.pinpp)
             
             if response.status_code == 400:
-                print(document, response.json()['error']['response']['description'])
+                print(document, response.json()['error']['response'].get('description', 'None error'))
+                
             else:
                 print(document, 'Added')
             
