@@ -1,6 +1,5 @@
 from .citizen import Citizen
 from .document import Document
-from .user_info import UserInfo
 from .district import District
 from .house import House
 from .mahalla import Mahalla

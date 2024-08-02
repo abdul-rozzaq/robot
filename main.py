@@ -13,15 +13,8 @@ Selected village: {}
 
 1.  Set Token
 2.  Download data
-3.  Download members data
-4.  Prepare excell data
-5.  Filter prepared data    
-6.  Add people
-7.  Add family
-8.  Add houses
-9.  Delete families
-10. Delete houses
-11. Delete people
+3.  Prepare excell data    
+4.  Add people
 """
 
 files = list(map(lambda x: x.split('.')[0], os.listdir('text_data')))
@@ -48,12 +41,8 @@ def main():
             case 2:
                 download_house_list(name)
             case 3:
-                download_members_data(name)
-            case 4:
                 filter_data(name)
-            case 5:
-                filter_members(name)
-            case 6:
+            case 4:
                 add_member(name)
             case 7:
                 ...
