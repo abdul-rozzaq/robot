@@ -18,6 +18,7 @@ Selected village: {}
 """
 
 files = list(map(lambda x: x.split('.')[0], os.listdir('text_data')))
+files = [f for f in files if 'old' not in f]
 
 for index in range(1, len(files) + 1):
     file = files[index - 1]

@@ -2,12 +2,36 @@ chunbog'ish
     aholi 4083 -> 4113
     oila 100%
 
-ozod
-    aholi 2120 -> 2232 -> 2348 -> 2314 -> 2372
-    2372 - 2120
+ozod -> 100,000 - 100,000
+    aholi 2120 -> 2232 -> 2348 -> 2314 -> 2372 -> 2577
+    qarz: 50,000
 
-yangiqadam
+yangiqadam -> 532,000 - 100,000 
     aholi 555 -> 1115 -> 1981 -> 2325 -> 3219
+    bergan: 100, 000
+    qarz: 430,000
 
-bekobod
-    aholi 4536 -> 4582 -> 5289 -> 6059
+bekobod -> 300,000 - 300,000
+    aholi 4536 -> 4582 -> 5289 -> 6059 -> 6072
+
+yangikurgan -> 224,000
+    aholi 2476 -> 3596
+    qarz: 200,000
+
+buyukipakyul -> 144,000 - 144,000 + 44,000
+    aholi 1793 -> 2516 -> 2733 -> 2755
+
+yashnarobod - Rayxona
+    aholi 1544 -> 1733 -> 1903
+    qarz: 50,000
+
+qo'rg'onobod -> Qo'rg'oncha
+    aholi: 746 -> 1066
+    qarz: 64,000
+
+xonobod -> Yangiqo'rg'on
+    aholi: 1285 -> 1558
+
+bachqir -> Yangiqo'rg'on
+    aholi: 1671 -> 2132 -> 2257
+    qarz: -150,000 - 117,000

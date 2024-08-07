@@ -40,8 +40,15 @@ def add_member(name):
             
         if letters == "IFR" or letters == 'FR':
             letters = "I-FR"
+            
         elif letters == "IIIFR":
             letters = "III-FR"
+            
+        elif letters == "IAN":
+            letters = "I-AN"  
+              
+        elif letters == "ITN":
+            letters = "I-TN"
             
         return letters, numbers
         
@@ -78,10 +85,10 @@ def add_member(name):
         raw_users = json.loads(file.read())    
 
     
-    index = 0
-    offset = 0
+    index = 2000
+    offset = -2000
     
-    with alive_bar(len(raw_users) - index, bar='fish') as bar:        
+    with alive_bar(len(raw_users) - index) as bar:        
         while index < len(raw_users):
             
             if index + offset >= len(houses):
