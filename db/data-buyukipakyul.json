@@ -8878,7 +8878,7 @@
             "owner_id": "660bea4bf400889840ec73f2",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0241",
+            "cadastre": null,
             "owner_pinpp": "31207906920014",
             "owner": {
                 "photo_id": null,
@@ -9084,7 +9084,7 @@
             "owner_id": "660beb62c82375984091fe64",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0241",
+            "cadastre": null,
             "owner_pinpp": "32511944170094",
             "owner": {
                 "photo_id": null,
@@ -9187,7 +9187,7 @@
             "owner_id": "660bea614448eb98405079e5",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0241",
+            "cadastre": null,
             "owner_pinpp": "31312774170015",
             "owner": {
                 "photo_id": "661ceea24c40f80001ddcb86",
@@ -9290,7 +9290,7 @@
             "owner_id": "660be9b7ea2bb59840e914a3",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0241",
+            "cadastre": null,
             "owner_pinpp": "30410996920012",
             "owner": {
                 "photo_id": null,
@@ -9702,7 +9702,7 @@
             "owner_id": "660beaf23f0d3f9840df87fd",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0231",
+            "cadastre": null,
             "owner_pinpp": "31905986920035",
             "owner": {
                 "photo_id": null,
@@ -10011,7 +10011,7 @@
             "owner_id": "660bea63b5f21f98407320c5",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0231",
+            "cadastre": null,
             "owner_pinpp": "31401966920027",
             "owner": {
                 "photo_id": null,
@@ -10526,7 +10526,7 @@
             "owner_id": "660beb2da00df0984099c750",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0259",
+            "cadastre": null,
             "owner_pinpp": "32210944170074",
             "owner": {
                 "photo_id": null,
@@ -10629,7 +10629,7 @@
             "owner_id": "660beb67cf883198404e2596",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0259",
+            "cadastre": null,
             "owner_pinpp": "32603654170012",
             "owner": {
                 "photo_id": null,
@@ -11041,7 +11041,7 @@
             "owner_id": "660be9c2addf4b984076b45b",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0264",
+            "cadastre": null,
             "owner_pinpp": "30506664170059",
             "owner": {
                 "photo_id": null,
@@ -11453,7 +11453,7 @@
             "owner_id": "660be9d5d02cd8984089bd46",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0161",
+            "cadastre": null,
             "owner_pinpp": "30608874170048",
             "owner": {
                 "photo_id": null,
@@ -11556,7 +11556,7 @@
             "owner_id": "660beb41b7c1aa984099caaf",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0161",
+            "cadastre": null,
             "owner_pinpp": "32401744170063",
             "owner": {
                 "photo_id": null,
@@ -11659,7 +11659,7 @@
             "owner_id": "660bea84c11651984057c913",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0162",
+            "cadastre": null,
             "owner_pinpp": "31512526920026",
             "owner": {
                 "photo_id": null,
@@ -11762,7 +11762,7 @@
             "owner_id": "660be9e01963209840cdfa53",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0162",
+            "cadastre": null,
             "owner_pinpp": "30704954170020",
             "owner": {
                 "photo_id": null,
@@ -12380,7 +12380,7 @@
             "owner_id": "663732b0efa5ab0001a82dd7",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0268",
+            "cadastre": null,
             "owner_pinpp": "30509986920047",
             "owner": {
                 "photo_id": null,
@@ -12483,7 +12483,7 @@
             "owner_id": "660bebc16401209840612317",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0268",
+            "cadastre": null,
             "owner_pinpp": "32908776920014",
             "owner": {
                 "photo_id": null,
@@ -12895,7 +12895,7 @@
             "owner_id": "660bea356121409840d72a0c",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0486",
+            "cadastre": null,
             "owner_pinpp": "31103804170042",
             "owner": {
                 "photo_id": null,
@@ -12998,7 +12998,7 @@
             "owner_id": "660be9d7a2197c98408acb45",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0486",
+            "cadastre": null,
             "owner_pinpp": "30610514170015",
             "owner": {
                 "photo_id": null,
@@ -13204,7 +13204,7 @@
             "owner_id": "660be9aa8b734b9840bb2f88",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0310",
+            "cadastre": null,
             "owner_pinpp": "30401656920017",
             "owner": {
                 "photo_id": null,
@@ -13616,7 +13616,7 @@
             "owner_id": "660bf14b1af734aa12d41ea9",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0475",
+            "cadastre": null,
             "owner_pinpp": "52307016920065",
             "owner": {
                 "photo_id": null,
@@ -13822,7 +13822,7 @@
             "owner_id": "660bebaf9f943d9840d61434",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0475",
+            "cadastre": null,
             "owner_pinpp": "32806976920040",
             "owner": {
                 "photo_id": null,
@@ -13925,7 +13925,7 @@
             "owner_id": "660bea376607539840ce159c",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0475",
+            "cadastre": null,
             "owner_pinpp": "31105754170059",
             "owner": {
                 "photo_id": null,
@@ -14028,7 +14028,7 @@
             "owner_id": "660beb1eaa8ba998407e1f45",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0475",
+            "cadastre": null,
             "owner_pinpp": "32111986920059",
             "owner": {
                 "photo_id": null,
@@ -14131,7 +14131,7 @@
             "owner_id": "660bea3c5cbb2598405b93a1",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0310",
+            "cadastre": null,
             "owner_pinpp": "31108976920015",
             "owner": {
                 "photo_id": null,
@@ -14543,7 +14543,7 @@
             "owner_id": "660beb2de7e3db9840c3c0f8",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0087",
+            "cadastre": null,
             "owner_pinpp": "32210924170087",
             "owner": {
                 "photo_id": null,
@@ -14749,7 +14749,7 @@
             "owner_id": "660be977385f24984026ad7f",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0087",
+            "cadastre": null,
             "owner_pinpp": "30104914170026",
             "owner": {
                 "photo_id": null,
@@ -14852,7 +14852,7 @@
             "owner_id": "660beaea37d14f98403886c2",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0087",
+            "cadastre": null,
             "owner_pinpp": "31812894170015",
             "owner": {
                 "photo_id": null,
@@ -15470,7 +15470,7 @@
             "owner_id": "663723a6efa5ab0001a80bee",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0517",
+            "cadastre": null,
             "owner_pinpp": "32005536920047",
             "owner": {
                 "photo_id": null,
@@ -15573,7 +15573,7 @@
             "owner_id": "660beaeef29cc39840410e32",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:06:01:03:0517",
+            "cadastre": null,
             "owner_pinpp": "31903794170035",
             "owner": {
                 "photo_id": null,
@@ -70369,7 +70369,7 @@
             "owner_id": "660beb17288abf9840410126",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32107804170054",
             "owner": {
                 "photo_id": null,
@@ -70472,7 +70472,7 @@
             "owner_id": "660bef18d324b0a5da7514f5",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "41904594170019",
             "owner": {
                 "photo_id": null,
@@ -70575,7 +70575,7 @@
             "owner_id": "660beb565e92a89840bb4e0f",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32504474170016",
             "owner": {
                 "photo_id": null,
@@ -70678,7 +70678,7 @@
             "owner_id": "660bea492d6f1f98403c2110",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "31206624170013",
             "owner": {
                 "photo_id": null,
@@ -70781,7 +70781,7 @@
             "owner_id": "660bece3aba18d98404c6e77",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "40612504170011",
             "owner": {
                 "photo_id": null,
@@ -70884,7 +70884,7 @@
             "owner_id": "6631d1cc66e56f0001f43a07",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "30107524170011",
             "owner": {
                 "photo_id": null,
@@ -71090,7 +71090,7 @@
             "owner_id": "660bebd510b2559840b5333e",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "33012704170071",
             "owner": {
                 "photo_id": null,
@@ -71193,7 +71193,7 @@
             "owner_id": "660bec3fd5a98b9840d30700",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "40602726920033",
             "owner": {
                 "photo_id": null,
@@ -71296,7 +71296,7 @@
             "owner_id": "660bf0bdec35ceaa1245915a",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "42801524170037",
             "owner": {
                 "photo_id": null,
@@ -71399,7 +71399,7 @@
             "owner_id": "660bef15353e13a5da9748b6",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "41902604170035",
             "owner": {
                 "photo_id": null,
@@ -71502,7 +71502,7 @@
             "owner_id": "660beb55c14b919840b42e57",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32503574170045",
             "owner": {
                 "photo_id": null,
@@ -71605,7 +71605,7 @@
             "owner_id": "660bec27eb1d539840b8e63e",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "40410604170014",
             "owner": {
                 "photo_id": null,
@@ -71708,7 +71708,7 @@
             "owner_id": "660bea710f69f7984050c3f0",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "31412854170051",
             "owner": {
                 "photo_id": null,
@@ -71811,7 +71811,7 @@
             "owner_id": "660be9e7f10ac2984053cc03",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "30710634170011",
             "owner": {
                 "photo_id": null,
@@ -71914,7 +71914,7 @@
             "owner_id": "660bebd727e23a984040535b",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "33101834170029",
             "owner": {
                 "photo_id": null,
@@ -72017,7 +72017,7 @@
             "owner_id": "660beb1be02cd19840a442f5",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32109884170049",
             "owner": {
                 "photo_id": null,
@@ -72120,7 +72120,7 @@
             "owner_id": "660bebd727e23a984040535b",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "33101834170029",
             "owner": {
                 "photo_id": null,
@@ -72223,7 +72223,7 @@
             "owner_id": "660beb1be02cd19840a442f5",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32109884170049",
             "owner": {
                 "photo_id": null,
@@ -72326,7 +72326,7 @@
             "owner_id": "660be97d33bcd198400e5d60",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "30107584170020",
             "owner": {
                 "photo_id": null,
@@ -80875,7 +80875,7 @@
             "owner_id": "660be98c7b5ffb984037f5ef",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "30203864170011",
             "owner": {
                 "photo_id": null,
@@ -80978,7 +80978,7 @@
             "owner_id": "660be9e9c977879840dfd6a3",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "30711706920037",
             "owner": {
                 "photo_id": null,
@@ -81081,7 +81081,7 @@
             "owner_id": "660beb52f1989f98404dd939",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32501654170060",
             "owner": {
                 "photo_id": null,
@@ -81184,7 +81184,7 @@
             "owner_id": "660bef021972ffa5da11cfe3",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "41711666920014",
             "owner": {
                 "photo_id": null,
@@ -81287,7 +81287,7 @@
             "owner_id": "660beb28d733a99840743cc6",
             "owner_type": 1,
             "registration_type": 1,
-            "cadastre": "15:03:03:01:04:0586",
+            "cadastre": null,
             "owner_pinpp": "32207894170072",
             "owner": {
                 "photo_id": null,

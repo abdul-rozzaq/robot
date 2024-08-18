@@ -85,8 +85,8 @@ def add_member(name):
         raw_users = json.loads(file.read())    
 
     
-    index = 2000
-    offset = -2000
+    index = 0
+    offset = 0
     
     with alive_bar(len(raw_users) - index) as bar:        
         while index < len(raw_users):
