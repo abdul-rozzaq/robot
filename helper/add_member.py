@@ -86,7 +86,7 @@ def add_member(name):
 
     
     index = 0
-    offset = 0
+    offset = -index
     
     with alive_bar(len(raw_users) - index) as bar:        
         while index < len(raw_users):
@@ -162,15 +162,20 @@ def add_member(name):
                 
                 
             fam = families_list[0]
-    
-            response = add(street_id=house.street_id, citizen_id=citizen.id, citizen_birthday=citizen.birthday, citizen_fullname=citizen.full_name, family_id=fam.id, house_id=house.id, pinpp=citizen.pinpp)
             
-            if response.status_code == 400:
-                print(document, response.json()['error']['response'].get('description', 'None error'))
+            try:
+
+        
+                response = add(street_id=house.street_id, citizen_id=citizen.id, citizen_birthday=citizen.birthday, citizen_fullname=citizen.full_name, family_id=fam.id, house_id=house.id, pinpp=citizen.pinpp)
                 
-            else:
-                print(document, 'Added')
-            
+                if response.status_code == 400:
+                    print(document, response.json()['error']['response'].get('description', 'None error'))
+                    
+                else:
+                    print(document, 'Added')
+                
+            except KeyError:
+                print(f'Error on {document}')    
             # break
                     
             index += 1

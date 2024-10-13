@@ -1,5 +1,5 @@
-ozod -> 100,000 - 100,000
-    aholi 2120 -> 2232 -> 2348 -> 2314 -> 2372 -> 2577 -> 2658 -> 
+ozod
+    aholi 2120 -> 2232 -> 2348 -> 2314 -> 2372 -> 2577 -> 2658 -> 3250 -> 3213 -> 3405 -> 
     qarz: 0
 
 yangiqadam 
@@ -15,7 +15,7 @@ yangikurgan
     qarz: 0
 
 buyukipakyul -> 3476
-    aholi 1793 -> 2516 -> 2733 -> 2755 -> 2795 -> 2835 -> 3276
+    aholi 1793 -> 2516 -> 2733 -> 2755 -> 2795 -> 2835 -> 3276 -> 3278 -> 3702 -> 3646 -> 3950 ->  4097 -> 4099 -> 4114 -> 4134
     qarz: 0
 
 yashnarobod - Rayxona
@@ -23,7 +23,7 @@ yashnarobod - Rayxona
     qarz: 0
 
 qo'rg'onobod -> Qo'rg'oncha
-    aholi: 746 -> 1066 -> 1547
+    aholi: 746 -> 1066 -> 1547 -> 1583
     qarz: 0
 
 xonobod -> Yangiqo'rg'on
@@ -31,7 +31,7 @@ xonobod -> Yangiqo'rg'on
     qarz: 60,000
 
 bachqir -> Yangiqo'rg'on
-    aholi: 1671 -> 2132 -> 2257 -> 2769
+    aholi: 1671 -> 2132 -> 2257 -> 2769 -> 2863 ->  3248
     qarz: 150,000 - 117,000
 
 elobod
@@ -41,3 +41,9 @@ elobod
 xasanqo'rg'oncha
     aholi: 3152 -> 3374 -> 3781
     qarz: 130,000
+
+jiydali
+    aholi: 2804 -> 3347 -> 3339 -> 
+
+bumozor
+    aholi: 1626 - 1884 -> 1895 -> 1926 -> 2312 -> 2397
